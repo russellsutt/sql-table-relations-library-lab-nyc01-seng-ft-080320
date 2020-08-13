@@ -7,4 +7,4 @@ CREATE TABLE series (
 
 CREATE TABLE author (
   id INTEGER PRIMARY KEY,
-  )
+  );
