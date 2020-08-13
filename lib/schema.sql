@@ -1,2 +1,2 @@
 CREATE TABLE author (
-  id )
+  id INTEGER PRIMARY KEY)
