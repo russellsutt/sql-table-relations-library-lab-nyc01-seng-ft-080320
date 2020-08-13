@@ -18,8 +18,3 @@ INSERT INTO character_books (id, character_id, book_id) VALUES
 
 
 
-  id INTEGER PRIMARY KEY,
-  name TEXT,
-  motto TEXT,
-  species TEXT,
-  author_id INTEGER
