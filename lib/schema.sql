@@ -9,19 +9,19 @@ CREATE TABLE series (
 CREATE TABLE author (
   id INTEGER PRIMARY KEY,
   name TEXT
-  );
+);
   
 CREATE TABLE subgenres (
   id INTEGER PRIMARY KEY,
   name TEXT
-  );
+);
   
 CREATE TABLE books (
   id INTEGER PRIMARY KEY,
   title TEXT,
   year INTEGER,
   series_id INTEGER,
-  );
+);
   
 CREATE TABLE characters (
   id INTEGER PRIMARY KEY,
@@ -29,4 +29,4 @@ CREATE TABLE characters (
   motto TEXT,
   species TEXT,
   author_id INTEGER
-  );
+);
