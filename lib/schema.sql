@@ -1,1 +1,2 @@
-CREATE TABLE author 
+CREATE TABLE author (
+  id )
