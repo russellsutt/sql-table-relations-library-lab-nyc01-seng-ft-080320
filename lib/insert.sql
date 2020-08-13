@@ -5,5 +5,5 @@ INSERT INTO subgenres (id, name) VALUES (1, "Scifi"), (2, "Fantasy")
 
 INSERT INTO authors (id, name) VALUES (1, "Lucas"), (2, "Martin")
 
-INSERT INTO books (id, title, years,)
+INSERT INTO books (id, title, years, series_id) VALUES (,)
 
