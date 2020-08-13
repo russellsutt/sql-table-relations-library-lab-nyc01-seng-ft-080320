@@ -10,7 +10,8 @@ INSERT INTO books (id, title, years, series_id) VALUES (1, "A New Hope", 1975, 1
 INSERT INTO characters (id, name, motto, species, author_id)
 VALUES (1, "Luke", "Hi", "Human", 1), (2, "Han", "Hi", "Human", 1), (3, "Leia", "Hi", "Human", 1), (4, "Vader", "Hi", "Human", 1), (5, "Jon", "Hi", "Human", 2), (6, "Sansa", "Hi", "Human", 2), (7, "Arya", "Hi", "Human", 2), (8, "Bran", "Hi", "Human", 2),
 
-INSERT INTO character_books (id, character_id, book_id) VALUES 
+INSERT INTO character_books (id, character_id, book_id) VALUES
+
 
 
 
