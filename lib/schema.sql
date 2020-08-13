@@ -30,3 +30,5 @@ CREATE TABLE characters (
   species TEXT,
   author_id INTEGER
 );
+
+CREATE TABLE character_books
