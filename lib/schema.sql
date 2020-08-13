@@ -32,8 +32,8 @@ CREATE TABLE characters (
 
 CREATE TABLE character_books (
 id INTEGER PRIMARY KEY,
-book_id INTEGER,
-character_id INTEGER
+character_id INTEGER,
+book_id INTEGER
 );
 
 
